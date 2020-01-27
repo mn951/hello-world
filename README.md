@@ -1,2 +1,4 @@
 # hello-world
-v0 
+
+
+Hi! I´m Pastrana. Code student
